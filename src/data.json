@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Kerékpározás",
+        "images":"./img/workout.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 2,
+        "name": "Tenisz",
+        "images":"./img/tennis.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 3,
+        "name": "Futás",
+        "images":"./img/workout.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 4,
+        "name": "Túrázás",
+        "images":"./img/hiking.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 5,
+        "name": "Kosárlabda",
+        "images":"./img/kosar.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 6,
+        "name": "E-sport",
+        "images":"./img/esport.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 7,
+        "name": "Golf",
+        "images":"./img/golf.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 8,
+        "name": "Futball",
+        "images":"./img/foci.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 9,
+        "name": "Úszás",
+        "images":"./img/swimming.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 10,
+        "name": "Street Workout",
+        "images":"./img/workout.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 11,
+        "name": "Tollaslabda",
+        "images":"./img/tollas.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 12,
+        "name": "Billiárd",
+        "images":"./img/billiard.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 13,
+        "name": "Darts",
+        "images":"./img/darts.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 14,
+        "name": "Yoga",
+        "images":"./img/yoga.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 15,
+        "name": "Falmászás",
+        "images":"./img/climbingh.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 16,
+        "name": "Bowling",
+        "images":"./img/bowling.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 17,
+        "name": "Konditermi edzés",
+        "images":"./img/kondi.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 18,
+        "name": "Squash",
+        "images":"./img/squash.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    }
+]
